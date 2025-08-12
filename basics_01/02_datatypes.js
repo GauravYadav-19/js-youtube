@@ -20,5 +20,9 @@ object
 
 =======
 object // will be discussed in very detail in future 
+<<<<<<< HEAD
 >>>>>>> c71ca9a (updated)
+=======
+updated
+>>>>>>> b30aba3 (updated)
 */

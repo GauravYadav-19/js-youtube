@@ -15,6 +15,10 @@ null => standalone value
 undefined => no value assigned 
 symbol => used for uniqueness
  
+<<<<<<< HEAD
 object
 
+=======
+object // will be discussed in very detail in future 
+>>>>>>> c71ca9a (updated)
 */
